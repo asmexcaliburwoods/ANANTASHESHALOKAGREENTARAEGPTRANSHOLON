@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- ⚡ Fun fact: <em>:green_heart: we should never die! :green_heart:</em>
+- ⚡ Fun fact: <em><p>
+      :green_heart: we should never die! :green_heart:<br clear="all"/>
+      :green_heart: `EcoBioRoboticMultiverses.vis_vitalis_eternal_nonstandard_et_standard_etc_et_al();` :green_heart:
+  </p></em>
 - 🌱 I’m currently learning at the [University of Artificial Intelligence](https://neural-university.ru/). Topic <em>"Data Science, neural networks, ML, AI, terra_ai@pypi, keras, tensorflow, pytorch"</em>;
 - 😄 Pronouns: <em>He (His)</em>;
 - 😄 Languages: <em>Russian, English, `multitran.com/translate.google.com`</em>;
