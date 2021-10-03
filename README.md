@@ -19,6 +19,37 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HOLISTICRESEARCH&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="HOLISTICRESEARCH' github stats"/>
 
+‎[12:14:43] ‎ https://Juick.com/ ‎: Subscribed
+
+‎[12:15:29] ‎🍀😇🍀🐝💞🧙🌈🐁💚
+Crypto Life Jewellery 💎 Layerlet ±∞* 💚‎:
+*ci *cd *cicd *vercel *devops
+```
+‎[12:14:14] ‎🍀😇🍀🐝💞🧙🌈🐁💚
+Crypto Life Jewellery 💎 Layerlet ±∞* 💚‎:
+*rust *gaudi *GaudiHologram *Hologram *holistic
+```
+thinking about writina a GaudiHologram, possibly partially using Rust ✓
+
+Idea inception holistic time sample: `user@eastsib1desktop1ubuntu1804x/mnt/sdc7/user/ +2021-10-03 04:21:28 UTC nanoseconds:718775442`
+
+`Ильдар Ахметгалеев, [03.10.21 12:21]`
+
+на хацкеле, на хацкеле! /on hutzkell, on hutzkell!/
+
+`URANCHILD AES Eugene Markandeya 𒀭𒄑𒉋𒂵𒈨𒌋𒌋𒌋 🐡 Joker FPHILIPPOW, [03.10.21 12:21]`
+
+ыы
+
+
+```‎[12:14:14] ‎Juick‎: New message posted.```
+
+#3001091 https://juick.com/m/3001091 ✓
+
+```‎[12:15:29] ‎Juick‎: New message posted.```
+
+#3001092 https://juick.com/m/3001092
+
 <!--
 **nonlin-lin-chaos-order-etc-etal/nonlin-lin-chaos-order-etc-etal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
