@@ -31,7 +31,9 @@ Crypto Life Jewellery 💎 Layerlet ±∞* 💚‎:
 
 thinking about writina a GaudiHologramCrystal, possibly partially using Rust ✓
 
-Idea inception holistic time sample: user@eastsib1desktop1ubuntu1804x/mnt/sdc7/user/ +2021-10-03 04:21:28 UTC nanoseconds:718775442.
+Idea inception holistic time sample:
+
+user@eastsib1desktop1ubuntu1804x/mnt/sdc7/user/ +2021-10-03 04:21:28 UTC nanoseconds:718775442.
 
 Ильдар Ахметгалеев, [03.10.21 12:21]
 
@@ -41,7 +43,7 @@ Idea inception holistic time sample: user@eastsib1desktop1ubuntu1804x/mnt/sdc7/u
 
 ыы
 
-*GaudiHologramCrystal *GaudiHologram
+#GaudiHologramCrystal *GaudiHologram
 
 https://github.com/HOLISTICRESEARCH/HOLISTICRESEARCH/edit/default/README.md
 
@@ -52,6 +54,10 @@ https://github.com/HOLISTICRESEARCH/HOLISTICRESEARCH/edit/default/README.md
 ‎[12:15:29] ‎Juick‎: New message posted.
 
 #3001092 https://juick.com/m/3001092
+
+‎[12:28:47] ‎Juick‎: New message posted.
+
+#3001093 https://juick.com/m/3001093
 
 
 
