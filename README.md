@@ -39,7 +39,7 @@ user@eastsib1desktop1ubuntu1804x/mnt/sdc7/user/ +2021-10-03 04:21:28 UTC nanosec
 
 на хацкеле, на хацкеле! /on hutzkell, on hutzkell!/
 
-#URANCHILD #AESREACTO Eugene Markandeya 𒀭𒄑𒉋𒂵𒈨𒌋𒌋𒌋 🐡 Joker FPHILIPPOW, [03.10.21 12:21]
+#URANCHILD #AESREACTOR Eugene Markandeya 𒀭𒄑𒉋𒂵𒈨𒌋𒌋𒌋 🐡 Joker FPHILIPPOW, [03.10.21 12:21]
 
 ыы
 
