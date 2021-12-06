@@ -92,3 +92,20 @@ Here are some ideas to get you started:
 - My first_main github acct is [https://github.com/nonlin-lin-chaos-order-etc-etal](https://github.com/nonlin-lin-chaos-order-etc-etal);
 - My e-mail is: [egphilippov@gmail.com](mailto:egphilippov@gmail.com);
 - etc etc etc et al.
+
+
+
+
+
+HOLISTIC RESEARCH 
+TRANSHOLISTIC RESEARCH 
+
+
+
+
+
+
+
+TOLMACHEVO NSK
+
+RAILS & STONES PASHKALANGUAGE EASTER ISLAND PASKHA.GM MSX.ORG ++++++++>molchuvka https://beacons.ai/krichuvka ANANTASHESHALOKEA ANANTASHESHALOKA
