@@ -21,9 +21,24 @@ HTTPS://CYBORGS.ANY.SURF/ HTTPS://CYBORGS.NOW.SH/ HTTPS://GITHUB.COM/PluralityNE
 
 HTTPS://HYSTRICIDAE-TECHNOLOGIES-SVELTE-WHALE.NOW.SH/
 
+<br clear=all>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonlin-lin-chaos-order-etc-etal&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hypnosis's github stats"/>
 
+<br clear=all>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ANANTASHESHALOKAGREENTARAEGPTRANSHOLON&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="ANANTASHESHALOKAGREENTARAEGPTRANSHOLON' github stats"/>
+
+<br clear=all>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonlin-lin-chaos-order-etc-etal&layout=compact&hide=html" alt="nonlin-lin-chaos-order-etc-etal's top programming languages referenced at repos"/>
+
+<br clear=all>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANTASHESHALOKAGREENTARAEGPTRANSHOLON&layout=compact&hide=html" alt="ANANTASHESHALOKAGREENTARAEGPTRANSHOLON's top programming languages referenced at repos"/>
+
+<br clear=all>
+
 
 ‎[12:14:43] ‎ https://Juick.com/ ‎: Subscribed
 
