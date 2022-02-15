@@ -1,3 +1,5 @@
+OUR CURRENT AGENDA: https://github.com/HUTORI2P/HUTORI2PCURRENTAGENDA ; OLDER INFO FOLLOWS ; 
+
 https://github.com/HOLISTICRESEARCH/01rooteternalmachineforhappinessforeveryonestrugatskieaetbetcetal
 
 <!--
