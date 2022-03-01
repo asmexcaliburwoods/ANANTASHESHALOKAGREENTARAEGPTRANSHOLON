@@ -1,3 +1,6 @@
+# Voltaire, France: ~ Only dump stupid crowds do wars against each other. Johnathan Swift: ~ Thick ends do a war with sharp ends again.
+
+
 OUR CURRENT AGENDA: https://github.com/HUTORI2P/HUTORI2PCURRENTAGENDA ; OLDER INFO FOLLOWS ; 
 
 https://github.com/ANANTASHESHALOKAGREENTARAEGPTRANSHOLON/01rooteternalmachineforhappinessforeveryonestrugatskieaetbetcetal
